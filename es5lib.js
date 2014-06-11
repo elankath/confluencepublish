@@ -1,6 +1,5 @@
 System.register((void 0), [], function() {
   "use strict";
-  "use strict";
   function createVehicle() {
     return new Vehicle("bmw", "2014");
   }

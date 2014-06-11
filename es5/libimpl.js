@@ -1,5 +1,4 @@
 "use strict";
-"use strict";
 Object.defineProperties(exports, {
   createPublisher: {get: function() {
       return createPublisher;

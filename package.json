@@ -1,7 +1,7 @@
 {
-  "name": "confluencepublish",
+  "name": "conflupub",
   "version": "0.1.0",
-  "description": "Node and Avatar-compatible library that allows publishing of resources to confluence wiki. ",
+  "description": "Node and Avatar compatible command line tool and library that publishes resources to Atlassian confluence",
   "main": "es5/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elankath/confluencepublish.git"
+    "url": "https://github.com/elankath/conflupub.git"
   },
   "preferGlobal": "true",
   "keywords": [
@@ -20,12 +20,12 @@
     "html",
     "publish"
   ],
-  "author": "Tarun R Elankath <dev@elankath.com> (https://github.com/lenkite/)",
+  "author": "Tarun R Elankath <dev@elankath.com> (https://github.com/elankath/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elankath/confluencepublish/issues"
+    "url": "https://github.com/elankath/conflupub/issues"
   },
-  "homepage": "https://github.com/elankath/confluencepublish",
+  "homepage": "https://github.com/elankath/conflupub",
   "devDependencies": {
     "request": "^2.36.0",
     "traceur": "0.0.43"
